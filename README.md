@@ -6,3 +6,4 @@ C++ source file(s) and the results of numerical simulations using this composite
 to investigate the infection spread in a supermarket during a pandemic.
 DO NOT FORGET TO CITE our article "How risky is it to visit a supermarket during the pandemic?", PLoS One (2021).
 DOI: 10.1371/journal.pone.0253835
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253835#sec018
