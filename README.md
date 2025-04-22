@@ -10,6 +10,7 @@ DOI: 10.1371/journal.pone.0253835
 [![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0253835-green.svg)](https://doi.org/10.1371/journal.pone.0253835)
 
 S1 Appendix. Supporting information file—Contains all the supporting schemes and diagrams (S1–S7 Figs).
+
 [![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0253835.s001-blue.svg)](https://doi.org/10.1371/journal.pone.0253835.s001)
 (PDF)
 
